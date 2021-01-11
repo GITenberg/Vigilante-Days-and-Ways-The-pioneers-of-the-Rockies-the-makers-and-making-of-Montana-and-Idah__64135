@@ -1,5 +1,8 @@
 _repo: Vigilante-Days-and-Ways-The-pioneers-of-the-Rockies-the-makers-and-making-of-Montana-and-Idah__64135
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64135-h/images/cover.jpg
 creator:
   author:
     agent_name: Langford, Nathaniel Pitt
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3862
     wikipedia: https://en.wikipedia.org/wiki/Nathaniel_P._Langford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64135#Vigilante-Days-and-Ways-The-pioneers-of-the-Rockies-the-makers-and-making-of-Montana-and-Idah_
 gutenberg_issued: '2020-12-26'
 gutenberg_type: Text
 identifiers:
